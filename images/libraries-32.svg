@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_323179" data-name="Group 323179" transform="translate(0 -0.258)">
+    <g id="Adobe_Fonts" data-name="Adobe Fonts" transform="translate(0 0.258)">
+      <g id="Group_302285" data-name="Group 302285" transform="translate(0 0)">
+        <rect id="Rectangle_221212" data-name="Rectangle 221212" width="32" height="32" rx="6" transform="translate(0 0)" fill="#000b1d"/>
+      </g>
+    </g>
+    <g id="Smock_CCLibrary_18_N" transform="translate(7.001 7.258)">
+      <rect id="Canvas" width="17.94" height="17.94" transform="translate(0 0)" fill="#fff" opacity="0"/>
+      <path id="Path_357394" data-name="Path 357394" d="M16.506,3h-1.5V1.5a.5.5,0,0,0-.5-.5H1.5a.5.5,0,0,0-.5.5v13a.5.5,0,0,0,.5.5H3v1.5a.5.5,0,0,0,.5.5h13a.5.5,0,0,0,.5-.5V3.5A.5.5,0,0,0,16.506,3ZM2,14V2H14V3H3.5a.5.5,0,0,0-.5.5V14Zm14.005,2H4V4h7v7l2-1.5,2,1.5V4h1Z" transform="translate(-0.084 0.027)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
